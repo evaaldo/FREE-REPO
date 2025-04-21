@@ -16,5 +16,5 @@ git clone https://github.com/evaaldo/PLATAFORMA-TREINAMENTOS.git
 
 ### 🐋 Container
 
-**BR:** Assim que o docker compose estiver pronto, serão disponibilizados os comandos.
+**BR:** Assim que o docker compose estiver pronto, serão disponibilizados os comandos. <br/>
 **EN:** Once docker compose is ready, the commands will be available.
