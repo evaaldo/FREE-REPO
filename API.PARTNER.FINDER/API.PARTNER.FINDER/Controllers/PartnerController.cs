@@ -23,6 +23,37 @@ namespace API.PARTNER.FINDER.Controllers
             _connection = connection;
         }
 
+        [HttpGet]
+        public async Task<IActionResult> LoadAllPartners()
+        {
+            try
+            {
+                var sql = @"
+                    SELECT 
+                        id,
+                        trading_name AS TradingName,
+                        owner_name AS OwnerName,
+                        document,
+                        ST_AsGeoJSON(coverage_area) AS CoverageArea,
+                        ST_AsGeoJSON(address) AS Address
+                    FROM partner;";
+
+                var partners = await _connection.QueryAsync<PartnerGet>(sql);
+
+                if (!partners.Any())
+                {
+                    return NotFound("Nenhum parceiro foi encontrado.");
+                }
+
+                return Ok(partners);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError("Erro ao carregar parceiros: " + ex.Message);
+                return BadRequest("Erro ao carregar parceiros: " + ex.Message);
+            }
+        }
+
         [HttpGet("{id}")]
         public async Task<IActionResult> LoadPartner(int id)
         {
@@ -59,12 +90,59 @@ namespace API.PARTNER.FINDER.Controllers
             }
         }
 
-        [HttpGet("{long}/{lat}")]
+        [HttpGet("{clientLong}/{clientLat}")]
         public async Task<IActionResult> SearchPartner(double clientLong, double clientLat)
         {
             try
             {
-                return Ok();
+                var sql = @"
+                    SELECT 
+                        id,
+                        trading_name AS TradingName,
+                        owner_name AS OwnerName,
+                        document,
+                        ST_AsGeoJSON(coverage_area) AS CoverageArea,
+                        ST_AsGeoJSON(address) AS Address
+                    FROM partner;";
+
+                var partners = await _connection.QueryAsync<PartnerGet>(sql);
+
+                if (!partners.Any())
+                {
+                    return NotFound("Nenhum parceiro encontrado.");
+                }
+
+                var clientPoint = new Point(clientLong, clientLat) { SRID = 4326 };
+
+                PartnerGet? nearestPartner = null;
+                double nearestDistance = double.MaxValue;
+
+                foreach (var partner in partners)
+                {
+                    var coverageArea = DeserializeGeoJson(partner.CoverageArea!);
+                    var address = DeserializeGeoJson(partner.Address!) as Point;
+
+                    if (coverageArea.Contains(clientPoint))
+                    {
+                        if (address != null)
+                        {
+                            double distance = clientPoint.Distance(address);
+
+                            if (distance < nearestDistance)
+                            {
+                                nearestDistance = distance;
+                                nearestPartner = partner;
+                            }
+                        }
+                    }
+                }
+
+                if (nearestPartner == null)
+                {
+                    return NotFound("Nenhum parceiro atende essa localização");
+                }
+
+                return Ok(nearestPartner);
             }
             catch (Exception ex)
             {
