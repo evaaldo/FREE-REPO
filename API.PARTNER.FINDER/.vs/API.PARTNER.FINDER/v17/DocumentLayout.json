@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\dotnet\\PARTNER.FINDER\\API.PARTNER.FINDER\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\fullstack\\PARTNER.FINDER\\API.PARTNER.FINDER\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66CC5E5A-CCFD-47F9-A057-2893712B4E06}|API.PARTNER.FINDER\\API.PARTNER.FINDER.csproj|C:\\Users\\User\\Desktop\\dotnet\\PARTNER.FINDER\\API.PARTNER.FINDER\\api.partner.finder\\controllers\\partnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66CC5E5A-CCFD-47F9-A057-2893712B4E06}|API.PARTNER.FINDER\\API.PARTNER.FINDER.csproj|solutionrelative:api.partner.finder\\controllers\\partnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66CC5E5A-CCFD-47F9-A057-2893712B4E06}|API.PARTNER.FINDER\\API.PARTNER.FINDER.csproj|c:\\users\\user\\desktop\\dotnet\\partner.finder\\api.partner.finder\\api.partner.finder\\models\\partnerpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66CC5E5A-CCFD-47F9-A057-2893712B4E06}|API.PARTNER.FINDER\\API.PARTNER.FINDER.csproj|C:\\Users\\User\\Desktop\\fullstack\\PARTNER.FINDER\\API.PARTNER.FINDER\\api.partner.finder\\models\\partnerpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66CC5E5A-CCFD-47F9-A057-2893712B4E06}|API.PARTNER.FINDER\\API.PARTNER.FINDER.csproj|solutionrelative:api.partner.finder\\models\\partnerpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66CC5E5A-CCFD-47F9-A057-2893712B4E06}|API.PARTNER.FINDER\\API.PARTNER.FINDER.csproj|c:\\users\\user\\desktop\\dotnet\\partner.finder\\api.partner.finder\\api.partner.finder\\models\\partnerget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66CC5E5A-CCFD-47F9-A057-2893712B4E06}|API.PARTNER.FINDER\\API.PARTNER.FINDER.csproj|C:\\Users\\User\\Desktop\\fullstack\\PARTNER.FINDER\\API.PARTNER.FINDER\\api.partner.finder\\models\\partnerget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66CC5E5A-CCFD-47F9-A057-2893712B4E06}|API.PARTNER.FINDER\\API.PARTNER.FINDER.csproj|solutionrelative:api.partner.finder\\models\\partnerget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66CC5E5A-CCFD-47F9-A057-2893712B4E06}|API.PARTNER.FINDER\\API.PARTNER.FINDER.csproj|c:\\users\\user\\desktop\\dotnet\\partner.finder\\api.partner.finder\\api.partner.finder\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66CC5E5A-CCFD-47F9-A057-2893712B4E06}|API.PARTNER.FINDER\\API.PARTNER.FINDER.csproj|solutionrelative:api.partner.finder\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66CC5E5A-CCFD-47F9-A057-2893712B4E06}|API.PARTNER.FINDER\\API.PARTNER.FINDER.csproj|c:\\users\\user\\desktop\\dotnet\\partner.finder\\api.partner.finder\\api.partner.finder\\models\\coveragearea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66CC5E5A-CCFD-47F9-A057-2893712B4E06}|API.PARTNER.FINDER\\API.PARTNER.FINDER.csproj|C:\\Users\\User\\Desktop\\fullstack\\PARTNER.FINDER\\API.PARTNER.FINDER\\api.partner.finder\\models\\coveragearea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66CC5E5A-CCFD-47F9-A057-2893712B4E06}|API.PARTNER.FINDER\\API.PARTNER.FINDER.csproj|solutionrelative:api.partner.finder\\models\\coveragearea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66CC5E5A-CCFD-47F9-A057-2893712B4E06}|API.PARTNER.FINDER\\API.PARTNER.FINDER.csproj|C:\\Users\\User\\Desktop\\dotnet\\PARTNER.FINDER\\API.PARTNER.FINDER\\api.partner.finder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66CC5E5A-CCFD-47F9-A057-2893712B4E06}|API.PARTNER.FINDER\\API.PARTNER.FINDER.csproj|C:\\Users\\User\\Desktop\\fullstack\\PARTNER.FINDER\\API.PARTNER.FINDER\\api.partner.finder\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66CC5E5A-CCFD-47F9-A057-2893712B4E06}|API.PARTNER.FINDER\\API.PARTNER.FINDER.csproj|solutionrelative:api.partner.finder\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CC5E5A-CCFD-47F9-A057-2893712B4E06}|API.PARTNER.FINDER\\API.PARTNER.FINDER.csproj|c:\\users\\user\\desktop\\fullstack\\partner.finder\\api.partner.finder\\api.partner.finder\\controllers\\partnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66CC5E5A-CCFD-47F9-A057-2893712B4E06}|API.PARTNER.FINDER\\API.PARTNER.FINDER.csproj|solutionrelative:api.partner.finder\\controllers\\partnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CC5E5A-CCFD-47F9-A057-2893712B4E06}|API.PARTNER.FINDER\\API.PARTNER.FINDER.csproj|C:\\Users\\User\\Desktop\\fullstack\\PARTNER.FINDER\\API.PARTNER.FINDER\\api.partner.finder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66CC5E5A-CCFD-47F9-A057-2893712B4E06}|API.PARTNER.FINDER\\API.PARTNER.FINDER.csproj|solutionrelative:api.partner.finder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66CC5E5A-CCFD-47F9-A057-2893712B4E06}|API.PARTNER.FINDER\\API.PARTNER.FINDER.csproj|C:\\Users\\User\\Desktop\\dotnet\\PARTNER.FINDER\\API.PARTNER.FINDER\\api.partner.finder\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{66CC5E5A-CCFD-47F9-A057-2893712B4E06}|API.PARTNER.FINDER\\API.PARTNER.FINDER.csproj|C:\\Users\\User\\Desktop\\fullstack\\PARTNER.FINDER\\API.PARTNER.FINDER\\api.partner.finder\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{66CC5E5A-CCFD-47F9-A057-2893712B4E06}|API.PARTNER.FINDER\\API.PARTNER.FINDER.csproj|solutionrelative:api.partner.finder\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66CC5E5A-CCFD-47F9-A057-2893712B4E06}|API.PARTNER.FINDER\\API.PARTNER.FINDER.csproj|C:\\Users\\User\\Desktop\\dotnet\\PARTNER.FINDER\\API.PARTNER.FINDER\\api.partner.finder\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{66CC5E5A-CCFD-47F9-A057-2893712B4E06}|API.PARTNER.FINDER\\API.PARTNER.FINDER.csproj|C:\\Users\\User\\Desktop\\fullstack\\PARTNER.FINDER\\API.PARTNER.FINDER\\api.partner.finder\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{66CC5E5A-CCFD-47F9-A057-2893712B4E06}|API.PARTNER.FINDER\\API.PARTNER.FINDER.csproj|solutionrelative:api.partner.finder\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,13 +50,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "PartnerGet.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet\\PARTNER.FINDER\\API.PARTNER.FINDER\\API.PARTNER.FINDER\\Models\\PartnerGet.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\fullstack\\PARTNER.FINDER\\API.PARTNER.FINDER\\API.PARTNER.FINDER\\Models\\PartnerGet.cs",
               "RelativeDocumentMoniker": "API.PARTNER.FINDER\\Models\\PartnerGet.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet\\PARTNER.FINDER\\API.PARTNER.FINDER\\API.PARTNER.FINDER\\Models\\PartnerGet.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\fullstack\\PARTNER.FINDER\\API.PARTNER.FINDER\\API.PARTNER.FINDER\\Models\\PartnerGet.cs",
               "RelativeToolTip": "API.PARTNER.FINDER\\Models\\PartnerGet.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T17:27:30.172Z",
               "EditorCaption": ""
@@ -65,24 +65,24 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Address.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet\\PARTNER.FINDER\\API.PARTNER.FINDER\\API.PARTNER.FINDER\\Models\\Address.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\fullstack\\PARTNER.FINDER\\API.PARTNER.FINDER\\API.PARTNER.FINDER\\Models\\Address.cs",
               "RelativeDocumentMoniker": "API.PARTNER.FINDER\\Models\\Address.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet\\PARTNER.FINDER\\API.PARTNER.FINDER\\API.PARTNER.FINDER\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\fullstack\\PARTNER.FINDER\\API.PARTNER.FINDER\\API.PARTNER.FINDER\\Models\\Address.cs",
               "RelativeToolTip": "API.PARTNER.FINDER\\Models\\Address.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T17:26:46.648Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "CoverageArea.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet\\PARTNER.FINDER\\API.PARTNER.FINDER\\API.PARTNER.FINDER\\Models\\CoverageArea.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\fullstack\\PARTNER.FINDER\\API.PARTNER.FINDER\\API.PARTNER.FINDER\\Models\\CoverageArea.cs",
               "RelativeDocumentMoniker": "API.PARTNER.FINDER\\Models\\CoverageArea.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet\\PARTNER.FINDER\\API.PARTNER.FINDER\\API.PARTNER.FINDER\\Models\\CoverageArea.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\fullstack\\PARTNER.FINDER\\API.PARTNER.FINDER\\API.PARTNER.FINDER\\Models\\CoverageArea.cs",
               "RelativeToolTip": "API.PARTNER.FINDER\\Models\\CoverageArea.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T17:26:31.185Z",
               "EditorCaption": ""
@@ -91,48 +91,50 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet\\PARTNER.FINDER\\API.PARTNER.FINDER\\API.PARTNER.FINDER\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\fullstack\\PARTNER.FINDER\\API.PARTNER.FINDER\\API.PARTNER.FINDER\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "API.PARTNER.FINDER\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet\\PARTNER.FINDER\\API.PARTNER.FINDER\\API.PARTNER.FINDER\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\fullstack\\PARTNER.FINDER\\API.PARTNER.FINDER\\API.PARTNER.FINDER\\Properties\\launchSettings.json",
               "RelativeToolTip": "API.PARTNER.FINDER\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-20T16:02:05.047Z"
+              "WhenOpened": "2025-04-20T16:02:05.047Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet\\PARTNER.FINDER\\API.PARTNER.FINDER\\API.PARTNER.FINDER\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\fullstack\\PARTNER.FINDER\\API.PARTNER.FINDER\\API.PARTNER.FINDER\\appsettings.json",
               "RelativeDocumentMoniker": "API.PARTNER.FINDER\\appsettings.json",
-              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet\\PARTNER.FINDER\\API.PARTNER.FINDER\\API.PARTNER.FINDER\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\fullstack\\PARTNER.FINDER\\API.PARTNER.FINDER\\API.PARTNER.FINDER\\appsettings.json",
               "RelativeToolTip": "API.PARTNER.FINDER\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-20T04:52:45.378Z"
+              "WhenOpened": "2025-04-20T04:52:45.378Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "PartnerController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet\\PARTNER.FINDER\\API.PARTNER.FINDER\\API.PARTNER.FINDER\\Controllers\\PartnerController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\fullstack\\PARTNER.FINDER\\API.PARTNER.FINDER\\API.PARTNER.FINDER\\Controllers\\PartnerController.cs",
               "RelativeDocumentMoniker": "API.PARTNER.FINDER\\Controllers\\PartnerController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet\\PARTNER.FINDER\\API.PARTNER.FINDER\\API.PARTNER.FINDER\\Controllers\\PartnerController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\fullstack\\PARTNER.FINDER\\API.PARTNER.FINDER\\API.PARTNER.FINDER\\Controllers\\PartnerController.cs",
               "RelativeToolTip": "API.PARTNER.FINDER\\Controllers\\PartnerController.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAqwC4AAABEAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAUwCoAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-20T04:32:28.014Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PartnerPost.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet\\PARTNER.FINDER\\API.PARTNER.FINDER\\API.PARTNER.FINDER\\Models\\PartnerPost.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\fullstack\\PARTNER.FINDER\\API.PARTNER.FINDER\\API.PARTNER.FINDER\\Models\\PartnerPost.cs",
               "RelativeDocumentMoniker": "API.PARTNER.FINDER\\Models\\PartnerPost.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet\\PARTNER.FINDER\\API.PARTNER.FINDER\\API.PARTNER.FINDER\\Models\\PartnerPost.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\fullstack\\PARTNER.FINDER\\API.PARTNER.FINDER\\API.PARTNER.FINDER\\Models\\PartnerPost.cs",
               "RelativeToolTip": "API.PARTNER.FINDER\\Models\\PartnerPost.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-20T03:54:04.364Z",
               "EditorCaption": ""
@@ -141,9 +143,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet\\PARTNER.FINDER\\API.PARTNER.FINDER\\API.PARTNER.FINDER\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\fullstack\\PARTNER.FINDER\\API.PARTNER.FINDER\\API.PARTNER.FINDER\\Program.cs",
               "RelativeDocumentMoniker": "API.PARTNER.FINDER\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet\\PARTNER.FINDER\\API.PARTNER.FINDER\\API.PARTNER.FINDER\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\fullstack\\PARTNER.FINDER\\API.PARTNER.FINDER\\API.PARTNER.FINDER\\Program.cs",
               "RelativeToolTip": "API.PARTNER.FINDER\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

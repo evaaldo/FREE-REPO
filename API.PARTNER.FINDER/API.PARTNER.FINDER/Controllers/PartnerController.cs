@@ -1,6 +1,8 @@
 ﻿using API.PARTNER.FINDER.Models;
 using Dapper;
 using Microsoft.AspNetCore.Mvc;
+using NetTopologySuite.Geometries;
+using NetTopologySuite.IO;
 using Newtonsoft.Json;
 using System.Data;
 using System.Data.Common;
@@ -22,7 +24,7 @@ namespace API.PARTNER.FINDER.Controllers
         }
 
         [HttpGet("{id}")]
-        public async Task<IActionResult> LoadPartnerById(int id)
+        public async Task<IActionResult> LoadPartner(int id)
         {
             try
             {
@@ -49,6 +51,20 @@ namespace API.PARTNER.FINDER.Controllers
                 }
 
                 return Ok(partner);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError("Erro ao carregar o parceiro: " + ex.Message);
+                return BadRequest("Erro ao carregar o parceiro: " + ex.Message);
+            }
+        }
+
+        [HttpGet("{long}/{lat}")]
+        public async Task<IActionResult> SearchPartner(double clientLong, double clientLat)
+        {
+            try
+            {
+                return Ok();
             }
             catch (Exception ex)
             {
@@ -87,6 +103,13 @@ namespace API.PARTNER.FINDER.Controllers
                 _logger.LogError("Erro ao cadastrar parceiro: " + ex.Message);
                 return BadRequest("Erro ao cadastrar parceiro: " + ex.Message);
             }
+        }
+
+        private Geometry DeserializeGeoJson(string geoJson)
+        {
+            var reader = new GeoJsonReader();
+            var geometry = reader.Read<Geometry>(geoJson);
+            return geometry;
         }
     }
 }
