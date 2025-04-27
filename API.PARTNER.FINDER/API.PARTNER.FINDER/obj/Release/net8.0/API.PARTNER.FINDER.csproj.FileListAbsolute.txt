@@ -36,3 +36,6 @@ C:\Users\User\Desktop\fullstack\PARTNER.FINDER\API.PARTNER.FINDER\API.PARTNER.FI
 C:\Users\User\Desktop\fullstack\PARTNER.FINDER\API.PARTNER.FINDER\API.PARTNER.FINDER\obj\Release\net8.0\API.PARTNER.FINDER.pdb
 C:\Users\User\Desktop\fullstack\PARTNER.FINDER\API.PARTNER.FINDER\API.PARTNER.FINDER\obj\Release\net8.0\API.PARTNER.FINDER.genruntimeconfig.cache
 C:\Users\User\Desktop\fullstack\PARTNER.FINDER\API.PARTNER.FINDER\API.PARTNER.FINDER\obj\Release\net8.0\ref\API.PARTNER.FINDER.dll
+C:\Users\User\Desktop\fullstack\PARTNER.FINDER\API.PARTNER.FINDER\API.PARTNER.FINDER\bin\Release\net8.0\NetTopologySuite.dll
+C:\Users\User\Desktop\fullstack\PARTNER.FINDER\API.PARTNER.FINDER\API.PARTNER.FINDER\bin\Release\net8.0\NetTopologySuite.Features.dll
+C:\Users\User\Desktop\fullstack\PARTNER.FINDER\API.PARTNER.FINDER\API.PARTNER.FINDER\bin\Release\net8.0\NetTopologySuite.IO.GeoJSON.dll

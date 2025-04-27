@@ -11,6 +11,13 @@ services:
     volumes:
       - pgdata:/var/lib/postgresql/data
       - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+  api:
+    build: ./API.PARTNER.FINDER
+    container_name: API.PARTNER.FINDER
+    ports:
+      - "8080:8080"
+    depends_on:
+      - db
 
 volumes:
   pgdata:
