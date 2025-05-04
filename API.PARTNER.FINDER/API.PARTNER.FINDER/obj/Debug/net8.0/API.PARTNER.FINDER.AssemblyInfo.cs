@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API.PARTNER.FINDER")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d4964a33d8a22687fc46e83eda8e12fdc8bb3f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6f935944818f42a2d2bb7cd9fdfc6bd89bec9cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("API.PARTNER.FINDER")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API.PARTNER.FINDER")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
