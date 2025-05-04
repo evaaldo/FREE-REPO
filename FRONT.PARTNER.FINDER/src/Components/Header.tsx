@@ -1,7 +1,7 @@
 export function Header() {
     return(
-        <h1 className="text-3xl font-bold underline">
-            Hello world!
-        </h1>
+        <header className="bg-blue-300 flex justify-center items-center py-5">
+            <img src="fastliver.png" alt="logo" />
+        </header>
     );
 }

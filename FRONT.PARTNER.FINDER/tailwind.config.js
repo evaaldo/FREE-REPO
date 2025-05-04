@@ -11,7 +11,7 @@ export default {
       colors: {
         blue: {
           700: "#392EFF",
-          300: "#0087B3"
+          300: "#4772FF"
         },
         orange: {
           700: "#FF7B00"
