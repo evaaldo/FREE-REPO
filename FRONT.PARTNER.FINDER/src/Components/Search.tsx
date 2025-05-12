@@ -6,7 +6,7 @@ export function Search() {
             <div className="w-[30vw] flex items-center justify-center">
                 <img src="Shopping-Shipping-01--Streamline-Bangalore 1.svg" alt="Moça de paraquedas chegando com caixa de entrega" />
             </div>
-            <div className="w-[40vw] flex flex-col items-center gap-10">
+            <div className="w-[40vw] flex flex-col items-center justify-center gap-10 border-b h-[100%]">
                 <h1 className="text-[34px] text-center font-bold">CONSULTE O PARCEIRO MAIS PRÓXIMO E TENHA O SEU PRODUTO EM MÃOS RAPIDINHO</h1>
                 <div className="relative w-[30vw]">
                     <span className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400">
