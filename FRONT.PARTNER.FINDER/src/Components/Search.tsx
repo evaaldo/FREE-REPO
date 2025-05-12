@@ -4,7 +4,7 @@ export function Search() {
     return (
         <div className="h-[45vh] flex items-center justify-center gap-10">
             <div className="w-[30vw] flex items-center justify-center">
-                <img src="Shopping-Shipping-01--Streamline-Bangalore 1.svg" alt="" />
+                <img src="Shopping-Shipping-01--Streamline-Bangalore 1.svg" alt="Moça de paraquedas chegando com caixa de entrega" />
             </div>
             <div className="w-[40vw] flex flex-col items-center gap-10">
                 <h1 className="text-[34px] text-center font-bold">CONSULTE O PARCEIRO MAIS PRÓXIMO E TENHA O SEU PRODUTO EM MÃOS RAPIDINHO</h1>
@@ -21,7 +21,7 @@ export function Search() {
                 </div>
             </div>
             <div className="w-[30vw] flex items-center justify-center">
-                <img src="Shopping-Add-Products-To-Cart-Or-Basket-01--Streamline-Bangalore 1.svg" alt="" />
+                <img src="Shopping-Add-Products-To-Cart-Or-Basket-01--Streamline-Bangalore 1.svg" alt="Moça realizando compras e colocando em um carrinho" />
             </div>
         </div>
     )
