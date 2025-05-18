@@ -2,7 +2,7 @@
 
 <small>Em andamento⏳</small>
 
-**BR:** Esse projeto tem o papel de, a partir da localização informada de um cliente hipotético, localizar qual o fornecedor mais próximo para a realização de uma entrega. Esse processo é similar ao feito, por exemplo, na busca por um motorista no Uber ou então a busca da pizzaria mais próxima no ifood. <br/><br/>
+**BR:** Esse projeto tem o papel de, a partir da localização informada de um cliente hipotético, localizar qual o fornecedor mais próximo para a realização de uma entrega. Esse processo é similar ao feito, por exemplo, na busca por um motorista no Uber ou então a busca do restaurante mais próxima no ifood. <br/><br/>
 **EN:** This project's role is to, based on the location provided by a hypothetical customer, locate the closest supplier to make a delivery. This process is similar to that done, for example, when searching for a driver on Uber or searching for the nearest pizzeria on iFood.
 
 ### 👬 Git Clone
