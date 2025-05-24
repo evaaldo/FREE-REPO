@@ -7,8 +7,8 @@
 
 ### 👬 Git Clone
 
-**BR:** Use o comando abaixo para clonar o repositório.  
-**EN:** Use the command bellow to clone the repository.
+**BR:** Use o comando abaixo para clonar o repositório
+**EN:** Use the command bellow to clone the repository
 
 ```sh
 git clone https://github.com/evaaldo/PLATAFORMA-TREINAMENTOS.git
