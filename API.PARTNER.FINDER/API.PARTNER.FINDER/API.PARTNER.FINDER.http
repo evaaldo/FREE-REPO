@@ -1,6 +1,0 @@
-@API.PARTNER.FINDER_HostAddress = http://localhost:5105
-
-GET {{API.PARTNER.FINDER_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
